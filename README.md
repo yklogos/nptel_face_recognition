@@ -9,7 +9,7 @@ Face recognition task on nptel videos identifying professors
 │   ├── <channel name 1>
 |       ├── <playist name 1>
 |           ├── <vedio id 1>.mp4
-│           └── <vedio id 1>.mp4
+│           └── <vedio id 2>.mp4
 ├── experimental_scripts
 ├── tracebacks
 ```

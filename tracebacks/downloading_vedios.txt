@@ -1,0 +1,186 @@
+
+
+
+for nptel_channel_name Aerospace Engineering
+number of playlist: 5
+
+for playlist Introduction to Aerodynamics
+number of vedios: 2
+_9qwbichO1s.mp4 already downloaded
+failed to extract vedio for https://www.youtube.com/watch?v=BhWzgo7qkbE with error ERROR: unable to rename file: [WinError 32] The process cannot access the file because it is being used by another process: 'BhWzgo7qkbE.mp4.part' -> 'BhWzgo7qkbE.mp4' using youtube-dl
+for playlist Introduction to Aerodynamics  downloaded: 0, error: 1, exists: 1
+
+for playlist Turbomachinery Aerodynamics
+number of vedios: 2
+dafjkTM2nlg.mp4 already downloaded
+VCWzszufr7I.mp4 already downloaded
+for playlist Turbomachinery Aerodynamics  downloaded: 0, error: 0, exists: 2
+
+for playlist Jet and Rocket Propulsion
+number of vedios: 2
+QLcxx6MJnbA.mp4 downloaded
+YrkbOeF7wFw.mp4 downloaded
+for playlist Jet and Rocket Propulsion  downloaded: 2, error: 0, exists: 0
+
+for playlist Foundation of Scientific Computing
+number of vedios: 2
+MkiUBJcgdUY.mp4 downloaded
+failed to extract vedio for https://www.youtube.com/watch?v=vT40FWuvIB8 with error ERROR: unable to rename file: [WinError 32] The process cannot access the file because it is being used by another process: 'vT40FWuvIB8.mp4.part' -> 'vT40FWuvIB8.mp4' using youtube-dl
+for playlist Foundation of Scientific Computing  downloaded: 1, error: 1, exists: 0
+
+for playlist Instability and Transition of Fluid Flows
+number of vedios: 2
+failed to extract vedio for https://www.youtube.com/watch?v=2hfaiu6x0ow with error ERROR: unable to download video data: <urlopen error [Errno 11001] getaddrinfo failed> using youtube-dl
+z77l0_F6qyY.mp4 downloaded
+for playlist Instability and Transition of Fluid Flows  downloaded: 1, error: 1, exists: 0
+
+for channel Aerospace Engineering  downloaded: 4, error: 3, exists: 3
+
+
+
+for nptel_channel_name Biotechnology
+number of playlist: 5
+
+for playlist Introduction To Proteomics
+number of vedios: 2
+oIWhVNK-Re8.mp4 already downloaded
+Y_KFAq4UpHM.mp4 already downloaded
+for playlist Introduction To Proteomics  downloaded: 0, error: 0, exists: 2
+
+for playlist Introduction to Mechanobiology
+number of vedios: 2
+Vnxy8BcCTUc.mp4 downloaded
+orfE5Q33yto.mp4 downloaded
+for playlist Introduction to Mechanobiology  downloaded: 2, error: 0, exists: 0
+
+for playlist Industrial Biotechnology
+number of vedios: 2
+2CqjfuTu4K0.mp4 downloaded
+K2HfqV3sAx0.mp4 downloaded
+for playlist Industrial Biotechnology  downloaded: 2, error: 0, exists: 0
+
+for playlist Biomedical nanotechnology
+number of vedios: 2
+k61wjab7iUs.mp4 downloaded
+AEWqAcSeQm4.mp4 downloaded
+for playlist Biomedical nanotechnology  downloaded: 2, error: 0, exists: 0
+
+for playlist Bio electricity
+number of vedios: 2
+FXPDVHl4Hl4.mp4 downloaded
+QiwxdcckPGc.mp4 downloaded
+for playlist Bio electricity  downloaded: 2, error: 0, exists: 0
+
+for channel Biotechnology  downloaded: 8, error: 0, exists: 2
+
+
+
+for nptel_channel_name Chemical Engineering
+number of playlist: 5
+
+for playlist Phase Equilibrium Thermodynamics
+number of vedios: 2
+failed to extract vedio for https://www.youtube.com/watch?v=Lz0xqu3HvD0 with error ERROR: Unable to extract JS player URL; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output. using youtube-dl
+LkXOVHTkWXQ.mp4 downloaded
+for playlist Phase Equilibrium Thermodynamics  downloaded: 1, error: 1, exists: 0
+
+for playlist Advanced Mathematical Techniques in Chemical Engineering
+number of vedios: 2
+z5tNwyS_eys.mp4 downloaded
+a16YzM1Q-5Y.mp4 downloaded
+for playlist Advanced Mathematical Techniques in Chemical Engineering  downloaded: 2, error: 0, exists: 0
+
+for playlist Particle Characterization (PG)
+number of vedios: 2
+-QQm3rFIEWA.mp4 downloaded
+ZVlG7GSiWuc.mp4 downloaded
+for playlist Particle Characterization (PG)  downloaded: 2, error: 0, exists: 0
+
+for playlist Mass Transfer Operations I
+number of vedios: 2
+EyREi7l5020.mp4 downloaded
+pMDs_J_zAeA.mp4 downloaded
+for playlist Mass Transfer Operations I  downloaded: 2, error: 0, exists: 0
+
+for playlist Microscale Transport Processes
+number of vedios: 2
+kF6zAl5mV8Q.mp4 downloaded
+kXK7_OKlu38.mp4 downloaded
+for playlist Microscale Transport Processes  downloaded: 2, error: 0, exists: 0
+
+for channel Chemical Engineering  downloaded: 9, error: 1, exists: 0
+
+
+
+for nptel_channel_name Chemistry and Biochemistry
+number of playlist: 5
+
+for playlist Analytical Chemistry
+number of vedios: 2
+KHpRNb_38OM.mp4 downloaded
+qJ8cjdCCd_Q.mp4 downloaded
+for playlist Analytical Chemistry  downloaded: 2, error: 0, exists: 0
+
+for playlist Stereochemistry
+number of vedios: 2
+T6xDcGWOEro.mp4 downloaded
+hH2Zfucp0oo.mp4 downloaded
+for playlist Stereochemistry  downloaded: 2, error: 0, exists: 0
+
+for playlist Advance Analytical Course
+number of vedios: 2
+E1Woj_Mz7fc.mp4 downloaded
+EcFIi2Vp-Bk.mp4 downloaded
+for playlist Advance Analytical Course  downloaded: 2, error: 0, exists: 0
+
+for playlist BioChemistry I
+number of vedios: 2
+DhwAp6yQHQI.mp4 downloaded
+Wj2g9Cf_IDc.mp4 downloaded
+for playlist BioChemistry I  downloaded: 2, error: 0, exists: 0
+
+for playlist Introduction to Organometallic Chemistry
+number of vedios: 2
+8pqCeN7GoMc.mp4 downloaded
+etxRR08x7x8.mp4 downloaded
+for playlist Introduction to Organometallic Chemistry  downloaded: 2, error: 0, exists: 0
+
+for channel Chemistry and Biochemistry  downloaded: 10, error: 0, exists: 0
+
+
+
+for nptel_channel_name Computer Science and Engineering
+number of playlist: 5
+
+for playlist Introduction to parallel Programming in Open MP
+number of vedios: 2
+a8R784VtXBg.mp4 downloaded
+UrjytgchRWM.mp4 downloaded
+for playlist Introduction to parallel Programming in Open MP  downloaded: 2, error: 0, exists: 0
+
+for playlist Introduction to R Software
+number of vedios: 2
+N-DQ8iDlH_U.mp4 downloaded
+A_I5XAtkxiY.mp4 downloaded
+for playlist Introduction to R Software  downloaded: 2, error: 0, exists: 0
+
+for playlist Artificial Intelligence Search Methods for problem Solving
+number of vedios: 2
+AETGmGYy0UU.mp4 downloaded
+cckckL3uOW8.mp4 downloaded
+for playlist Artificial Intelligence Search Methods for problem Solving  downloaded: 2, error: 0, exists: 0
+
+for playlist Hardware Modeling using Verilog
+number of vedios: 2
+failed to extract vedio for https://www.youtube.com/watch?v=NCrlyaXMAn8 with error ERROR: Unable to extract JS player URL; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output. using youtube-dl
+failed to extract vedio for https://www.youtube.com/watch?v=NdWTDZ7dg-8 with error ERROR: Unable to extract JS player URL; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output. using youtube-dl
+for playlist Hardware Modeling using Verilog  downloaded: 0, error: 2, exists: 0
+
+for playlist Cloud Computing
+number of vedios: 2
+NzZXz3fJf6o.mp4 downloaded
+SqG-b5E9vHs.mp4 downloaded
+for playlist Cloud Computing  downloaded: 2, error: 0, exists: 0
+
+for channel Computer Science and Engineering  downloaded: 8, error: 2, exists: 0
+time: 13min 19s

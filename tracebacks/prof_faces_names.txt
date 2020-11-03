@@ -1,0 +1,102 @@
+number of paylist: 10
+
+
+paylist: Artificial Intelligence Search Methods for problem Solving
+number of vedios: 5
+vedio: AETGmGYy0UU.mp4
+(vst, vet): (5, 25)
+prof. deepak khemani department of computer science and engineering iit madras
+name: prof. deepak khemani at time: 9
+face at time: 16
+
+paylist: Cloud Computing
+number of vedios: 3
+vedio: fZ3D6HQrWzs.mp4
+(vst, vet): (5, 25)
+vedio: NzZXz3fJf6o.mp4
+(vst, vet): (5, 25)
+vedio: SqG-b5E9vHs.mp4
+(vst, vet): (5, 25)
+face and name not found for C:\Users\YASH\nptel_face_recognition\full_vedio\Cloud Computing
+
+paylist: Compiler Design
+number of vedios: 5
+vedio: 7oB0urhzndk.mp4
+(vst, vet): (5, 25)
+prof. s. k. aggarwal.
+name: prof. s. k. aggarwal. at time: 13
+face at time: 17
+
+paylist: Computer Architecture Prof. Smruti Ranjan Sarangi
+number of vedios: 5
+name: prof. smruti ranjan in the title
+vedio: 1rV15Z1mbwo.mp4
+(vst, vet): (5, 45)
+vedio: 5kpJDc664Vo.mp4
+(vst, vet): (5, 65)
+vedio: AnyJrRKHvhY.mp4
+(vst, vet): (5, 85)
+vedio: kNriKOJ-JuA.mp4
+(vst, vet): (5, 105)
+vedio: zPFpfI_g2MU.mp4
+(vst, vet): (5, 125)
+face not found for prof. smruti ranjan
+
+paylist: Hardware Modeling using Verilog
+number of vedios: 3
+vedio: 6r4ja44Bq1k.mp4
+(vst, vet): (5, 25)
+by prof. indranil sengupta department of computer science and engineering indian institute of technology kharagpur
+name: prof. indranil sengupta at time: 13
+face at time: 18
+
+paylist: Introduction to Machine Learning
+number of vedios: 5
+vedio: dYMCwxgl3vk.mp4
+(vst, vet): (5, 25)
+___ prof. sudeshna sarkar
+name: prof. sudeshna sarkar at time: 11
+vedio: EWmCkVfPnJ8.mp4
+(vst, vet): (5, 45)
+face at time: 20
+
+paylist: Introduction to parallel Programming in Open MP
+number of vedios: 5
+vedio: a8R784VtXBg.mp4
+(vst, vet): (5, 25)
+dr. yogish sabharwal adjunct faculty  department of computer science & engineering p06 mero lin
+name: dr. yogish sabharwal at time: 10
+vedio: FlML_53r-zw.mp4
+(vst, vet): (5, 45)
+vedio: fUS5dCzdSrQ.mp4
+(vst, vet): (5, 65)
+vedio: uIQOc32NivI.mp4
+(vst, vet): (5, 85)
+vedio: UrjytgchRWM.mp4
+(vst, vet): (5, 105)
+face not found for dr. yogish sabharwal
+
+paylist: Introduction to R Software
+number of vedios: 5
+vedio: 668keuD73k4.mp4
+(vst, vet): (5, 25)
+by prof. shalabh  department of mathematics and statistics, iit kanpur
+name: prof. shalabh  department at time: 11
+face at time: 14
+
+paylist: Programming in C++
+number of vedios: 5
+vedio: 1sibb2PGR-Q.mp4
+(vst, vet): (5, 25)
+vedio: 3ZgDx-0oGQQ.mp4
+(vst, vet): (5, 25)
+prof. partha  department of computer science int kharagpur
+name: prof. partha  department at time: 14
+face at time: 19
+
+paylist: Software Testing Prof. Meenakshi D’Souza
+number of vedios: 5
+name: prof. meenakshi d’souza in the title
+vedio: 0kkUnL1mdUY.mp4
+(vst, vet): (5, 45)
+face at time: 5

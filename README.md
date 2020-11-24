@@ -16,6 +16,7 @@ Face recognition task on nptel videos identifying professors
 |           ├── <vedio id 1>.mp4
 │           └── <vedio id 2>.mp4
 ├── experimental_scripts
+├── results
 
 ```
 
@@ -26,6 +27,7 @@ Face recognition task on nptel videos identifying professors
 3. full_vedio - dir for downloaded vedios
 4. experimental_scripts - dir for notebooks of indivisual functions
 5. tracebacks - dir for usefull tracebacks of notebooks in experimental_scripts
+6. results - dir for evaluation results
 
 
 

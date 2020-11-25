@@ -32,8 +32,8 @@ Face recognition task on nptel videos identifying professors
 
 ## important files
 
-1. download_vedios_from_channels - downloads vedios from nptel channels
-2. get_prof_name_face_from_vedio - saves names and faces of professors
+1. download_vedios_from_channels.ipynb - downloads vedios from nptel channels
+2. get_prof_name_face_from_vedio.ipynb - saves names and faces of professors
 3. face_recognition_eval.ipynb - evaluation of all vedios using face recognition library
 
 

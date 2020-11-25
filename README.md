@@ -3,15 +3,21 @@ Face recognition task on nptel videos identifying professors
 
 ## directory structure
 ```
-├── known_faces
-├── pkl_files
-├── full_vedio
+├── data
+| ├── known_faces
+|     ├── <prof1 name>
+|         ├── pic1.jpg
+│         └── pic2.jpg
+| ├── pkl_files
+| ├── tracebacks
+| ├── full_vedio
 │   ├── <channel name 1>
 |       ├── <playist name 1>
 |           ├── <vedio id 1>.mp4
 │           └── <vedio id 2>.mp4
 ├── experimental_scripts
-├── tracebacks
+├── results
+
 ```
 
 ## data directory descriptions
@@ -21,6 +27,7 @@ Face recognition task on nptel videos identifying professors
 3. full_vedio - dir for downloaded vedios
 4. experimental_scripts - dir for notebooks of indivisual functions
 5. tracebacks - dir for usefull tracebacks of notebooks in experimental_scripts
+6. results - dir for evaluation results
 
 
 

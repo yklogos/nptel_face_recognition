@@ -1,0 +1,76 @@
+
+for nptel_channel_name Aerospace Engineering
+number of playlist: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Aerospace Engineering\Introduction to Aerodynamics\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Aerospace Engineering\Turbomachinery Aerodynamics\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Aerospace Engineering\Jet and Rocket Propulsion\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Aerospace Engineering\Foundation of Scientific Computing\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Aerospace Engineering\Instability and Transition of Fluid Flows\vedio_id_list.pkl exists
+number of vedios: 5
+for nptel_channel_name Aerospace Engineering saved: 0, exists: 5
+
+
+for nptel_channel_name Biotechnology
+number of playlist: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Biotechnology\Introduction To Proteomics\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Biotechnology\Introduction to Mechanobiology\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Biotechnology\Industrial Biotechnology\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Biotechnology\Biomedical nanotechnology\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Biotechnology\Bio electricity\vedio_id_list.pkl exists
+number of vedios: 5
+for nptel_channel_name Biotechnology saved: 0, exists: 5
+
+
+for nptel_channel_name Chemical Engineering
+number of playlist: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Chemical Engineering\Phase Equilibrium Thermodynamics\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Chemical Engineering\Advanced Mathematical Techniques in Chemical Engineering\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Chemical Engineering\Particle Characterization (PG)\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Chemical Engineering\Mass Transfer Operations I\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Chemical Engineering\Microscale Transport Processes\vedio_id_list.pkl exists
+number of vedios: 5
+for nptel_channel_name Chemical Engineering saved: 0, exists: 5
+
+
+for nptel_channel_name Chemistry and Biochemistry
+number of playlist: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Chemistry and Biochemistry\Analytical Chemistry\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Chemistry and Biochemistry\Stereochemistry\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Chemistry and Biochemistry\Advance Analytical Course\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Chemistry and Biochemistry\BioChemistry I\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Chemistry and Biochemistry\Introduction to Organometallic Chemistry\vedio_id_list.pkl exists
+number of vedios: 5
+for nptel_channel_name Chemistry and Biochemistry saved: 0, exists: 5
+
+
+for nptel_channel_name Computer Science and Engineering
+number of playlist: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Computer Science and Engineering\Introduction to parallel Programming in Open MP\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Computer Science and Engineering\Introduction to R Software\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Computer Science and Engineering\Artificial Intelligence Search Methods for problem Solving\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Computer Science and Engineering\Hardware Modeling using Verilog\vedio_id_list.pkl exists
+number of vedios: 5
+C:\Users\YASH\nptel_face_recognition\pkl_files\Computer Science and Engineering\Cloud Computing\vedio_id_list.pkl exists
+number of vedios: 5
+for nptel_channel_name Computer Science and Engineering saved: 0, exists: 5
+
+time: 12 ms

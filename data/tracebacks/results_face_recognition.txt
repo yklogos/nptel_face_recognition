@@ -1,0 +1,527 @@
+
+
+
+for nptel_channel_name Aerospace Engineering
+
+
+playlist: Foundation of Scientific Computing
+
+prof visible from 3:15 - 4:00
+vedio: s5cccilePqg.mp4
+unique predicted value counts:
+[['prof. debashis ray ' '1']]
+true_name: prof. t.k.sengupta 
+ accuracy:0.0             
+number of predictions: 1
+
+prof visible from 1:15 - 1:45
+vedio: vHz-8-bSj00.mp4
+unique predicted value counts:
+[['prof. debashis ray ' '1']]
+true_name: prof. t.k.sengupta 
+ accuracy:nan             
+number of predictions: 0
+C:\Users\YASH\anaconda3\lib\site-packages\ipykernel_launcher.py:158: RuntimeWarning: Mean of empty slice.
+C:\Users\YASH\anaconda3\lib\site-packages\numpy\core\_methods.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+
+vedio: vT40FWuvIB8.mp4
+unique predicted value counts:
+[['prof. debashis ray ' '1']]
+true_name: prof. t.k.sengupta 
+ accuracy:nan             
+number of predictions: 0
+
+
+playlist: Instability and Transition of Fluid Flows
+no name for Instability and Transition of Fluid Flows
+
+
+playlist: Introduction to Aerodynamics
+same prof as prev list 
+
+vedio: VhybIE82B6M.mp4
+unique predicted value counts:
+[]
+true_name: prof. k. p. sinhamahapatra 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: _9qwbichO1s.mp4
+unique predicted value counts:
+[['prof. k. p. sinhamahapatra' '66']]
+true_name: prof. k. p. sinhamahapatra 
+ accuracy:1.0             
+number of predictions: 66
+
+
+playlist: Jet and Rocket Propulsion
+
+vedio: UcDNM18TkiU.mp4
+unique predicted value counts:
+[['dr. a. kushari' '41']]
+true_name: dr. a. kushari 
+ accuracy:1.0             
+number of predictions: 41
+
+vedio: YrkbOeF7wFw.mp4
+unique predicted value counts:
+[['dr. a. kushari' '42']]
+true_name: dr. a. kushari 
+ accuracy:1.0             
+number of predictions: 1
+
+vedio: ZDQBcuVRWYs.mp4
+unique predicted value counts:
+[['dr. a. kushari' '50']]
+true_name: dr. a. kushari 
+ accuracy:1.0             
+number of predictions: 8
+
+
+playlist: Turbomachinery Aerodynamics
+
+vedio: U6ipqqt6Spc.mp4
+unique predicted value counts:
+[['prof. bhaskar ot' '27']]
+true_name: prof. bhaskar ot 
+ accuracy:1.0             
+number of predictions: 27
+
+vedio: utL9RWUdVVs.mp4
+unique predicted value counts:
+[['prof. bhaskar ot' '101']]
+true_name: prof. bhaskar ot 
+ accuracy:1.0             
+number of predictions: 74
+
+vedio: VCWzszufr7I.mp4
+unique predicted value counts:
+[['prof. bhaskar ot' '117']]
+true_name: prof. bhaskar ot 
+ accuracy:1.0             
+number of predictions: 16
+
+
+
+for nptel_channel_name Biotechnology
+
+
+playlist: Bio electricity
+
+vedio: QiwxdcckPGc.mp4
+unique predicted value counts:
+[['prof. mainak das' '60']]
+true_name: prof. mainak das 
+ accuracy:1.0             
+number of predictions: 60
+
+vedio: SHFf3cYaj0k.mp4
+unique predicted value counts:
+[['prof. mainak das' '178']]
+true_name: prof. mainak das 
+ accuracy:1.0             
+number of predictions: 118
+
+
+playlist: Biomedical nanotechnology
+prof visible
+
+vedio: k61wjab7iUs.mp4
+unique predicted value counts:
+[]
+true_name: dr. p. gopinath  
+ accuracy:nan             
+number of predictions: 0
+
+vedio: lFYs3XDu4fQ.mp4
+unique predicted value counts:
+[]
+true_name: dr. p. gopinath  
+ accuracy:nan             
+number of predictions: 0
+
+vedio: Z51R49OOqAA.mp4
+unique predicted value counts:
+[]
+true_name: dr. p. gopinath  
+ accuracy:nan             
+number of predictions: 0
+
+
+playlist: Industrial Biotechnology
+plausable resemblance
+
+vedio: K2HfqV3sAx0.mp4
+unique predicted value counts:
+[['prof s. de' '11']
+ ['prof. debabrata das' '63']
+ ['prof. debashis ray ' '12']]
+true_name: prof. debabrata das 
+ accuracy:0.7325581395348837             
+number of predictions: 86
+
+vedio: ZgM3h0xTUfM.mp4
+unique predicted value counts:
+[['prof s. de' '13']
+ ['prof. debabrata das' '113']
+ ['prof. debashis ray ' '13']]
+true_name: prof. debabrata das 
+ accuracy:0.9433962264150944             
+number of predictions: 53
+
+
+playlist: Introduction to Mechanobiology
+
+vedio: orfE5Q33yto.mp4
+unique predicted value counts:
+[['prof. amit basak ' '1']
+ ['prof. shamik sen' '70']]
+true_name: prof. shamik sen 
+ accuracy:0.9859154929577465             
+number of predictions: 71
+
+vedio: SbFKcg1JJ-c.mp4
+unique predicted value counts:
+[['prof. amit basak ' '1']
+ ['prof. shamik sen' '177']]
+true_name: prof. shamik sen 
+ accuracy:1.0             
+number of predictions: 107
+
+vedio: Vnxy8BcCTUc.mp4
+unique predicted value counts:
+[['prof. amit basak ' '1']
+ ['prof. s. ganguly' '1']
+ ['prof. shamik sen' '195']]
+true_name: prof. shamik sen 
+ accuracy:0.9473684210526315             
+number of predictions: 19
+
+
+playlist: Introduction To Proteomics
+prof visible
+
+vedio: oIWhVNK-Re8.mp4
+unique predicted value counts:
+[]
+true_name: dr. ton er 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: SQISTJMZeVY.mp4
+unique predicted value counts:
+[]
+true_name: dr. ton er 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: Y_KFAq4UpHM.mp4
+unique predicted value counts:
+[]
+true_name: dr. ton er 
+ accuracy:nan             
+number of predictions: 0
+
+
+
+for nptel_channel_name Chemical Engineering
+
+
+playlist: Advanced Mathematical Techniques in Chemical Engineering
+
+vedio: UbOnRXAEz3Y.mp4
+unique predicted value counts:
+[['prof s. de' '11']]
+true_name: prof s. de 
+ accuracy:1.0             
+number of predictions: 11
+
+vedio: YnVEqTnopuc.mp4
+unique predicted value counts:
+[['prof s. de' '14']]
+true_name: prof s. de 
+ accuracy:1.0             
+number of predictions: 3
+
+vedio: z5tNwyS_eys.mp4
+unique predicted value counts:
+[['prof s. de' '195']]
+true_name: prof s. de 
+ accuracy:1.0             
+number of predictions: 181
+
+
+playlist: Mass Transfer Operations I
+
+vedio: HiMOMeAxOXo.mp4
+unique predicted value counts:
+[]
+true_name: dr eue or 
+ accuracy:nan             
+number of predictions: 0
+C:\Users\YASH\anaconda3\lib\site-packages\ipykernel_launcher.py:158: RuntimeWarning: Mean of empty slice.
+C:\Users\YASH\anaconda3\lib\site-packages\numpy\core\_methods.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+
+vedio: l2Q4WF3ljIk.mp4
+unique predicted value counts:
+[]
+true_name: dr eue or 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: pMDs_J_zAeA.mp4
+unique predicted value counts:
+[]
+true_name: dr eue or 
+ accuracy:nan             
+number of predictions: 0
+
+
+playlist: Microscale Transport Processes
+
+vedio: CF23DwmH5Z8.mp4
+unique predicted value counts:
+[['prof. s. ganguly' '69']]
+true_name: prof. s. ganguly 
+ accuracy:1.0             
+number of predictions: 69
+
+vedio: kF6zAl5mV8Q.mp4
+unique predicted value counts:
+[['prof. s. ganguly' '74']]
+true_name: prof. s. ganguly 
+ accuracy:1.0             
+number of predictions: 5
+
+vedio: kXK7_OKlu38.mp4
+unique predicted value counts:
+[['prof. s. ganguly' '74']]
+true_name: prof. s. ganguly 
+ accuracy:nan             
+number of predictions: 0
+
+
+playlist: Particle Characterization (PG)
+no name for Particle Characterization (PG)
+
+
+playlist: Phase Equilibrium Thermodynamics
+
+vedio: N3fWRvIu8RM.mp4
+unique predicted value counts:
+[['prof. gargi das epartment' '133']
+ ['prof: padma vankar' '1']]
+true_name: prof. gargi das epartment 
+ accuracy:0.9925373134328358             
+number of predictions: 134
+
+
+
+for nptel_channel_name Chemistry and Biochemistry
+
+
+playlist: Advance Analytical Course
+
+vedio: EcFIi2Vp-Bk.mp4
+unique predicted value counts:
+[]
+true_name: prof: padma vankar 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: FgtpAWCiMXU.mp4
+unique predicted value counts:
+[]
+true_name: prof: padma vankar 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: WP_os9-sKBA.mp4
+unique predicted value counts:
+[]
+true_name: prof: padma vankar 
+ accuracy:nan             
+number of predictions: 0
+
+
+playlist: Analytical Chemistry
+
+vedio: KHpRNb_38OM.mp4
+unique predicted value counts:
+[['prof. debashis ray ' '3']]
+true_name: prof. debashis ray  
+ accuracy:1.0             
+number of predictions: 3
+
+vedio: qJ8cjdCCd_Q.mp4
+unique predicted value counts:
+[['prof. debashis ray ' '15']]
+true_name: prof. debashis ray  
+ accuracy:1.0             
+number of predictions: 12
+
+vedio: wrnXdihS4K8.mp4
+unique predicted value counts:
+[['dr. a. kushari' '1']
+ ['prof. debashis ray ' '24']]
+true_name: prof. debashis ray  
+ accuracy:0.9             
+number of predictions: 10
+
+
+playlist: BioChemistry I
+
+vedio: Fp1wKo72b2A.mp4
+unique predicted value counts:
+[]
+true_name: prof. s. dasgupta coma 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: Wj2g9Cf_IDc.mp4
+unique predicted value counts:
+[]
+true_name: prof. s. dasgupta coma 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: YWEiQlEUFak.mp4
+unique predicted value counts:
+[]
+true_name: prof. s. dasgupta coma 
+ accuracy:nan             
+number of predictions: 0
+
+
+playlist: Introduction to Organometallic Chemistry
+
+vedio: etxRR08x7x8.mp4
+unique predicted value counts:
+[]
+true_name: prof. a. g. samuelson 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: nadRJbFKaug.mp4
+unique predicted value counts:
+[]
+true_name: prof. a. g. samuelson 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: xdaCCHxEpTk.mp4
+unique predicted value counts:
+[]
+true_name: prof. a. g. samuelson 
+ accuracy:nan             
+number of predictions: 0
+
+
+playlist: Stereochemistry
+
+vedio: T6xDcGWOEro.mp4
+unique predicted value counts:
+[]
+true_name: prof. amit basak  
+ accuracy:nan             
+number of predictions: 0
+
+
+
+for nptel_channel_name Computer Science and Engineering
+
+
+playlist: Artificial Intelligence Search Methods for problem Solving
+
+vedio: ws89tmbpt8w.mp4
+unique predicted value counts:
+[['prof. deepak khemani' '2']]
+true_name: prof. deepak khemani 
+ accuracy:1.0             
+number of predictions: 2
+
+vedio: X9PhasOXlT8.mp4
+unique predicted value counts:
+[['prof. deepak khemani' '83']]
+true_name: prof. deepak khemani 
+ accuracy:1.0             
+number of predictions: 81
+
+vedio: _MhgsoPHvYo.mp4
+unique predicted value counts:
+[['prof. deepak khemani' '83']]
+true_name: prof. deepak khemani 
+ accuracy:nan             
+number of predictions: 0
+
+
+playlist: Cloud Computing
+
+vedio: SqG-b5E9vHs.mp4
+unique predicted value counts:
+[['prof. soumya k. ghosh' '3']]
+true_name: prof. soumya k. ghosh 
+ accuracy:1.0             
+number of predictions: 3
+
+
+playlist: Hardware Modeling using Verilog
+
+vedio: hENRfpN80SM.mp4
+unique predicted value counts:
+[['prof. indranil sengupta' '62']]
+true_name: prof. indranil sengupta 
+ accuracy:1.0             
+number of predictions: 62
+
+
+playlist: Introduction to parallel Programming in Open MP
+
+vedio: fUS5dCzdSrQ.mp4
+unique predicted value counts:
+[]
+true_name: dr. yogish sabharwal 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: uIQOc32NivI.mp4
+unique predicted value counts:
+[]
+true_name: dr. yogish sabharwal 
+ accuracy:nan             
+number of predictions: 0
+
+vedio: UrjytgchRWM.mp4
+unique predicted value counts:
+[]
+true_name: dr. yogish sabharwal 
+ accuracy:nan             
+number of predictions: 0
+
+
+playlist: Introduction to R Software
+
+vedio: N-DQ8iDlH_U.mp4
+unique predicted value counts:
+[['prof. shalabh ' '3']]
+true_name: prof. shalabh  
+ accuracy:1.0             
+number of predictions: 3
+
+vedio: SJpd7KC18fQ.mp4
+unique predicted value counts:
+[['prof. shalabh ' '85']]
+true_name: prof. shalabh  
+ accuracy:1.0             
+number of predictions: 82
+
+vedio: ueFXTnG8ZC0.mp4
+unique predicted value counts:
+[['prof. shalabh ' '161']]
+true_name: prof. shalabh  
+ accuracy:1.0             
+number of predictions: 76
+
+time: 1hr 46min 47s

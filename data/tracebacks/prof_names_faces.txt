@@ -1,0 +1,280 @@
+for nptel_channel_name Aerospace Engineering
+number of playlist: 5
+
+playlist: Foundation of Scientific Computing
+number of vedios: 5
+vedio: hkBQutyQla8.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. t.k.sengupta at time: 12
+vedio: MkiUBJcgdUY.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+vedio: s5cccilePqg.mp4
+(vst, vet, num_f_per_sec): (65, 90, 4)
+all faces not found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Aerospace Engineering\Foundation of Scientific Computing
+
+playlist: Instability and Transition of Fluid Flows
+number of vedios: 5
+vedio: 2hfaiu6x0ow.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+vedio: GY0GnH2gEnM.mp4
+(vst, vet, num_f_per_sec): (5, 30, 7)
+vedio: paHi-4caiSk.mp4
+(vst, vet, num_f_per_sec): (5, 30, 10)
+face and name not found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Aerospace Engineering\Instability and Transition of Fluid Flows
+
+playlist: Introduction to Aerodynamics
+number of vedios: 4
+vedio: BhWzgo7qkbE.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. k. p. sinhamahapatra at time: 11
+vedio: FKH4DjMdk9I.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Aerospace Engineering\Introduction to Aerodynamics
+
+playlist: Jet and Rocket Propulsion
+number of vedios: 5
+vedio: bcBrCQGI1tY.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: dr. a. kushari at time: 12
+vedio: QLcxx6MJnbA.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Aerospace Engineering\Jet and Rocket Propulsion
+
+playlist: Turbomachinery Aerodynamics
+number of vedios: 5
+vedio: 2K0EJaimBas.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. bhaskar ot at time: 10
+vedio: dafjkTM2nlg.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Aerospace Engineering\Turbomachinery Aerodynamics
+
+for channel: Aerospace Engineering  faces found: 3, names found: 1, names not found: 1
+
+
+
+for nptel_channel_name Biotechnology
+number of playlist: 5
+
+playlist: Bio electricity
+number of vedios: 4
+vedio: cuiVnm6YBLk.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. mainak das at time: 12
+vedio: FXPDVHl4Hl4.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Biotechnology\Bio electricity
+
+playlist: Biomedical nanotechnology
+number of vedios: 5
+vedio: 0md5JdAbj4U.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: dr. p. gopinath  at time: 12
+vedio: AEWqAcSeQm4.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Biotechnology\Biomedical nanotechnology
+
+playlist: Industrial Biotechnology
+number of vedios: 4
+vedio: 2CqjfuTu4K0.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. debabrata das at time: 12
+vedio: eRigIJ3aP-M.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Biotechnology\Industrial Biotechnology
+
+playlist: Introduction to Mechanobiology
+number of vedios: 5
+vedio: Bu07aFJGeyw.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. shamik sen at time: 20
+vedio: IgqfvQkKc_E.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Biotechnology\Introduction to Mechanobiology
+
+playlist: Introduction To Proteomics
+number of vedios: 5
+vedio: eiv9MNCrV4Q.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+vedio: gtgq71YfeU4.mp4
+(vst, vet, num_f_per_sec): (5, 30, 7)
+name: dr. ton er at time: 9
+vedio: oIWhVNK-Re8.mp4
+(vst, vet, num_f_per_sec): (35, 60, 7)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Biotechnology\Introduction To Proteomics
+
+for channel: Biotechnology  faces found: 5, names found: 0, names not found: 0
+
+
+
+for nptel_channel_name Chemical Engineering
+number of playlist: 5
+
+playlist: Advanced Mathematical Techniques in Chemical Engineering
+number of vedios: 5
+vedio: a16YzM1Q-5Y.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof s. de at time: 9
+vedio: NLxaZGMt-8M.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Chemical Engineering\Advanced Mathematical Techniques in Chemical Engineering
+
+playlist: Mass Transfer Operations I
+number of vedios: 5
+vedio: b-lAePuQ-z0.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+vedio: EyREi7l5020.mp4
+(vst, vet, num_f_per_sec): (5, 30, 7)
+name: dr eue or at time: 12
+vedio: HiMOMeAxOXo.mp4
+(vst, vet, num_f_per_sec): (35, 60, 7)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Chemical Engineering\Mass Transfer Operations I
+
+playlist: Microscale Transport Processes
+number of vedios: 5
+vedio: 0QoUcutTU-o.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. s. ganguly at time: 9
+vedio: 6pl4bOPh-MM.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+vedio: CF23DwmH5Z8.mp4
+(vst, vet, num_f_per_sec): (65, 90, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Chemical Engineering\Microscale Transport Processes
+
+playlist: Particle Characterization (PG)
+number of vedios: 5
+vedio: -0kKPEGbyx0.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+vedio: -QQm3rFIEWA.mp4
+(vst, vet, num_f_per_sec): (5, 30, 7)
+vedio: jNo-mzKZRxk.mp4
+(vst, vet, num_f_per_sec): (5, 30, 10)
+face and name not found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Chemical Engineering\Particle Characterization (PG)
+
+playlist: Phase Equilibrium Thermodynamics
+number of vedios: 3
+vedio: L68486TLouE.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. gargi das epartment at time: 11
+vedio: LkXOVHTkWXQ.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Chemical Engineering\Phase Equilibrium Thermodynamics
+
+for channel: Chemical Engineering  faces found: 4, names found: 0, names not found: 1
+
+
+
+for nptel_channel_name Chemistry and Biochemistry
+number of playlist: 5
+
+playlist: Advance Analytical Course
+number of vedios: 5
+vedio: E1Woj_Mz7fc.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof: padma vankar at time: 13
+vedio: EBqBgh4zQlc.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Chemistry and Biochemistry\Advance Analytical Course
+
+playlist: Analytical Chemistry
+number of vedios: 5
+vedio: gI8CA0gZpVg.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. debashis ray  at time: 11
+vedio: JJV0xFetJxg.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Chemistry and Biochemistry\Analytical Chemistry
+
+playlist: BioChemistry I
+number of vedios: 5
+vedio: CyYaX0vFdhI.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. s. dasgupta coma at time: 24
+vedio: DhwAp6yQHQI.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+vedio: Fp1wKo72b2A.mp4
+(vst, vet, num_f_per_sec): (65, 90, 4)
+all faces not found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Chemistry and Biochemistry\BioChemistry I
+
+playlist: Introduction to Organometallic Chemistry
+number of vedios: 5
+vedio: 8pqCeN7GoMc.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. a. g. samuelson at time: 8
+vedio: EL7bSAKCRwE.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+vedio: etxRR08x7x8.mp4
+(vst, vet, num_f_per_sec): (65, 90, 4)
+all faces not found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Chemistry and Biochemistry\Introduction to Organometallic Chemistry
+
+playlist: Stereochemistry
+number of vedios: 3
+vedio: ekiEA_i5AVc.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. amit basak  at time: 12
+vedio: hH2Zfucp0oo.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Chemistry and Biochemistry\Stereochemistry
+
+for channel: Chemistry and Biochemistry  faces found: 3, names found: 2, names not found: 0
+
+
+
+for nptel_channel_name Computer Science and Engineering
+number of playlist: 5
+
+playlist: Artificial Intelligence Search Methods for problem Solving
+number of vedios: 5
+vedio: AETGmGYy0UU.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. deepak khemani at time: 8
+vedio: cckckL3uOW8.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+vedio: ws89tmbpt8w.mp4
+(vst, vet, num_f_per_sec): (65, 90, 4)
+all faces not found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Computer Science and Engineering\Artificial Intelligence Search Methods for problem Solving
+
+playlist: Cloud Computing
+number of vedios: 3
+vedio: fZ3D6HQrWzs.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. soumya k. ghosh at time: 25
+vedio: NzZXz3fJf6o.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+vedio: SqG-b5E9vHs.mp4
+(vst, vet, num_f_per_sec): (65, 90, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Computer Science and Engineering\Cloud Computing
+
+playlist: Hardware Modeling using Verilog
+number of vedios: 3
+vedio: 6r4ja44Bq1k.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. indranil sengupta at time: 12
+vedio: 9uw25PU5B3k.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Computer Science and Engineering\Hardware Modeling using Verilog
+
+playlist: Introduction to parallel Programming in Open MP
+number of vedios: 5
+vedio: a8R784VtXBg.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: dr. yogish sabharwal at time: 10
+vedio: FlML_53r-zw.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+vedio: fUS5dCzdSrQ.mp4
+(vst, vet, num_f_per_sec): (65, 90, 4)
+all faces not found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Computer Science and Engineering\Introduction to parallel Programming in Open MP
+
+playlist: Introduction to R Software
+number of vedios: 5
+vedio: 668keuD73k4.mp4
+(vst, vet, num_f_per_sec): (5, 30, 4)
+name: prof. shalabh  at time: 11
+vedio: A_I5XAtkxiY.mp4
+(vst, vet, num_f_per_sec): (35, 60, 4)
+all faces found for C:\Users\YASH\nptel_face_recognition\data\full_vedio\Computer Science and Engineering\Introduction to R Software
+
+for channel: Computer Science and Engineering  faces found: 3, names found: 2, names not found: 0
+
+total faces found: 18, names found: 5, names not found: 2
+time: 44min 47s

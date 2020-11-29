@@ -35,6 +35,9 @@ Face recognition task on nptel videos identifying professors
 1. download_vedios_from_channels.ipynb - downloads vedios from nptel channels
 2. get_prof_name_face_from_vedio.ipynb - saves names and faces of professors
 3. face_recognition_eval.ipynb - evaluation of all vedios using face recognition library
+4. make_serengil_deepface_known_faces - makes labelled faces directory for deepface library(run before evaluation scripts and after saving faces) 
+5. serengil_deepface_recognition_eval - face recognition evaluation of different models usign deepface library
+6. serengil_deepface_verification_eval - face verification evaluation of different models usign deepface library
 
 
 

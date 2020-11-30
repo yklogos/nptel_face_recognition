@@ -1,6 +1,13 @@
 pickle files are stored with profs whose names, faces are or arent deetcted
 traceback are stored for text, image extraction code with stats
 
+related link
+
+# vedio indexing company
+https://www.google.com/url?hl=en&q=https://lake.videoken.com/exchange&sa=D&ust=1606540394377000&usg=AFQjCNEgB9tyNOXHpvyLO9BuvCbOmZwkjw
+# vedio doi
+https://av.tib.eu/
+
 Tasks:
     0. genral:
         1. 
@@ -70,5 +77,45 @@ Tasks:
                 
                 
     2. face recognition:
-    
-https://stackoverflow.com/questions/3490727/what-are-some-methods-to-analyze-image-brightness-using-python
+
+accurate slide detection, so what isnt a slide is a prof face
+request paper https://www.sciencedirect.com/science/article/abs/pii/S0957417420301664 
+check if 
+face_recognition low recogntion rate
+face_recognition performs better at identification if not changed to rgb, discovery by acident
+using deep face 1/2hr 1 vedio 6 models, 5 predictions
+
+
+tunable parameters
+
+get labeled naems, faces:
+1. name heuristic
+2. image:
+	1. heuristic to save a image(disimilarity)
+	2. number of images to save
+	3. num fo vedios from which to take images
+
+face_recognition:
+1. face_locations:
+	1. number_of_times_to_upsample - Higher numbers find smaller faces.
+	2. model - Which face detection model to use. "hog" is less accurate but faster on CPUs. "cnn" is a more accurate
+                  deep-learning model which is GPU/CUDA accelerated (if available). The default is "hog".
+
+2. face_encodings:
+    :param num_jitters: How many times to re-sample the face when calculating encoding. Higher is more accurate, but slower (i.e. 100 is 100x slower)
+    :param model: Optional - which model to use. "large" or "small" (default) which only returns 5 points but is faster.
+
+deepface:
+1. find, verify:
+	1. model_name among  ["VGG-Face", "Facenet", "OpenFace", "DeepFace", "DeepID", "Dlib"]
+	2. detector_backend among ['opencv', 'ssd', 'dlib', 'mtcnn']
+2. number of preditions 
+
+
+
+metrics:
+get metrics for chanels, playlist, vedio seperately
+1. num vedios downloaded
+2. num names, faces extraced
+3. num of faces recognized
+4. accuracy of faces verified

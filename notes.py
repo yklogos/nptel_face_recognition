@@ -1,13 +1,21 @@
-pickle files are stored with profs whose names, faces are or arent deetcted
-traceback are stored for text, image extraction code with stats
-
-related link
+points for the next meeting:
+    0. models 
+    1. mention nptel papers found, why so less? any other platform to find papers  
+    2. ask for list of nptel, other platform research papers, projects for better understanding of usefull features, easier to implement as data is already there
+    4. request for full paper
+    5. a way to block a import from printing mesages, warnings, tqdms 
+    6. free conferences to attend in winters
+    7. how to follow current research, like ML newspaper, in genral and in a specific field 
+    8. long stretch but a web application
+    . ASR dbts:
+        1. acousic faeture generator
+        2. acoustic modes?
 
 # vedio indexing company
 https://www.google.com/url?hl=en&q=https://lake.videoken.com/exchange&sa=D&ust=1606540394377000&usg=AFQjCNEgB9tyNOXHpvyLO9BuvCbOmZwkjw
 # vedio doi
 https://av.tib.eu/
-
+    
 Tasks:
     0. genral:
         1. 
@@ -83,7 +91,34 @@ request paper https://www.sciencedirect.com/science/article/abs/pii/S09574174203
 check if 
 face_recognition low recogntion rate
 face_recognition performs better at identification if not changed to rgb, discovery by acident
-using deep face 1/2hr 1 vedio 6 models, 5 predictions
+
+
+details on deepface models:
+    1. VGG Face:
+        3. model: parameters: 145,002,878
+                
+    2. FaceNet:
+        1. input: 160×160 RGB images
+        2. output: 128 dimensional 
+        3. model: inception_resnet_v1, parameters: 22,808,144
+                
+    3. OpenFace:
+        1. input: 96×96 RGB images 
+        2. output: 128 dimensional output
+        3. model: inception_resnet_v1, parameters: 3,743,280
+                
+    4. DeepFace:
+        3. model: 8 layered CNN, parameters: 137,774,071
+        
+    5. DeepID:
+        1. The 1st generation expect 39×31 sized 1 channel input whereas 2nd generation(DeepID2) expects 55×47 sized 3 channel (RGB) input 
+        2. output: 160 dimensional last layer
+        3. model: 4 convolution layers and one fully connected layer
+            
+    6. Dlib:
+        1. input: 150x150x3    
+        2. output: 128 dimensional vectors
+        3. model: 29 convolution layers
 
 
 tunable parameters
@@ -91,9 +126,10 @@ tunable parameters
 get labeled naems, faces:
 1. name heuristic
 2. image:
-	1. heuristic to save a image(disimilarity)
-	2. number of images to save
-	3. num fo vedios from which to take images
+    1. heuristic to save a image(disimilarity)
+    2. number of images to save
+    3. does validation of image based on the image itself improve accuracy
+    4. num for vedios from which to take images
 
 face_recognition:
 1. face_locations:
@@ -104,6 +140,8 @@ face_recognition:
 2. face_encodings:
     :param num_jitters: How many times to re-sample the face when calculating encoding. Higher is more accurate, but slower (i.e. 100 is 100x slower)
     :param model: Optional - which model to use. "large" or "small" (default) which only returns 5 points but is faster.
+            
+    tolerance - for verification
 
 deepface:
 1. find, verify:
@@ -112,10 +150,15 @@ deepface:
 2. number of preditions 
 
 
-
 metrics:
 get metrics for chanels, playlist, vedio seperately
 1. num vedios downloaded
 2. num names, faces extraced
 3. num of faces recognized
 4. accuracy of faces verified
+
+doubts and concerns:
+    1. face_recognition low recogntion rate
+    2. face_recognition performs better at identification if not changed to rgb, which shouldnt be the case
+    3. using deep face 1/2hr 1 vedio 6 models, 5 predictions
+    4. code optimization in genral

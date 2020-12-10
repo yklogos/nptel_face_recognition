@@ -22,11 +22,12 @@ Face recognition task on nptel videos identifying professors
 
 ## data directory descriptions
 
-1. known_faces - dir for labelled faces
+1. known_faces - dir for labelled faces 
+(ver variable is added at the end to save with different methods of faces eg. known_faces3 - full frame, known_faces_with_diversity - faces with thresholding)
 2. pkl_files - dir for pickle files containing youtube ids, aux dictionaries, lists (eg. list of professors whose name is found)
 3. full_vedio - dir for downloaded vedios
 4. experimental_scripts - dir for notebooks of indivisual functions
-5. tracebacks - dir for usefull tracebacks of notebooks in experimental_scripts
+5. tracebacks - dir for usefull results in the form of cell outputs of notebooks in experimental_scripts
 6. results - dir for evaluation results
 
 

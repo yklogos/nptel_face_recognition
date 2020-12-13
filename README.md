@@ -1,5 +1,6 @@
 # nptel_face_recognition
 Face recognition task on nptel videos identifying professors 
+drive link for data: https://drive.google.com/drive/folders/19sTbgtfns6HDgiHDS6ArRTtqh7nLM_8-?usp=sharing
 
 ## directory structure
 ```

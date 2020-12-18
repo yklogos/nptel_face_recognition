@@ -15,7 +15,7 @@ def main():
 #     if ver is None:
 #         ver = VER
 
-    base_dir = BASE_DIR
+    base_dir = os.getcwd()
     ver = VER
 
     st.title("Face Recognition on NPTEL vedios")

@@ -1,6 +1,6 @@
 # nptel_face_recognition
-Face recognition task on nptel videos identifying professors
-<br>Drive link for data: https://drive.google.com/drive/folders/19sTbgtfns6HDgiHDS6ArRTtqh7nLM_8-?usp=sharing
+face recognition task on nptel videos identifying professors
+<br>drive link for data: https://drive.google.com/drive/folders/19sTbgtfns6HDgiHDS6ArRTtqh7nLM_8-?usp=sharing
 
 ## directory structure
 ```
@@ -40,6 +40,7 @@ Face recognition task on nptel videos identifying professors
 4. make_serengil_deepface_known_faces - makes labelled faces directory for deepface library(run before evaluation scripts and after saving faces) 
 5. serengil_deepface_recognition_eval - face recognition evaluation of different models usign deepface library
 6. serengil_deepface_verification_eval - face verification evaluation of different models usign deepface library
+7. app.py - face recognition app on vedios in full_vedio, using streamlit, face_recognition library
 
 
 

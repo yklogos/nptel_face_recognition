@@ -22,8 +22,7 @@ indexing nptel vedios based on the profesor<br>drive link for data: https://driv
 
 ## data directory descriptions
 
-1. known_faces - labelled faces 
-(ver variable is added at the end to save with different methods of faces eg. known_faces3 - full frame, known_faces_with_diversity - faces with diversity)
+1. known_faces - labelled faces (ver variable is added at the end to save with different methods of faces eg. known_faces3 - full frame)
 2. pkl_files - pickle files containing youtube ids, aux dictionaries, lists (eg. list of professors whose name is found)
 3. full_vedio - downloaded vedios
 4. experimental_scripts - jupyter notebooks 
@@ -35,7 +34,7 @@ indexing nptel vedios based on the profesor<br>drive link for data: https://driv
 1. download_vedios_from_channels.ipynb - downloads vedios from nptel channels
 2. get_prof_name_face_from_vedio.ipynb - saves names and faces of professors
 3. face_recognition_eval.ipynb - evaluation of all vedios using face recognition library
-4. make_serengil_deepface_known_faces - makes labelled faces directory, from known_faces dir, for deepface library (run before evaluation scripts and after saving faces) 
+4. make_serengil_deepface_known_faces - makes labelled faces directory, from known_faces dir, for deepface library 
 5. serengil_deepface_recognition_eval - face recognition evaluation of different models using deepface library
 6. serengil_deepface_verification_eval - face verification evaluation of different models using deepface library
 7. app.py - streamlit face recognition app on vedios in full_vedio

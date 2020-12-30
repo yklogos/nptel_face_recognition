@@ -1,6 +1,5 @@
 # nptel_face_recognition
-face recognition task on nptel videos identifying professors
-<br>drive link for data: https://drive.google.com/drive/folders/19sTbgtfns6HDgiHDS6ArRTtqh7nLM_8-?usp=sharing
+indexing nptel vedios based on the profesor<br>drive link for data: https://drive.google.com/drive/folders/19sTbgtfns6HDgiHDS6ArRTtqh7nLM_8-?usp=sharing
 
 ## directory structure
 ```
@@ -23,25 +22,22 @@ face recognition task on nptel videos identifying professors
 
 ## data directory descriptions
 
-1. known_faces - dir for labelled faces 
-(ver variable is added at the end to save with different methods of faces eg. known_faces3 - full frame, known_faces_with_diversity - faces with thresholding)
-2. pkl_files - dir for pickle files containing youtube ids, aux dictionaries, lists (eg. list of professors whose name is found)
-3. full_vedio - dir for downloaded vedios
-4. experimental_scripts - dir for notebooks of indivisual functions
-5. tracebacks - dir for usefull results in the form of cell outputs of notebooks in experimental_scripts
+1. known_faces - labelled faces (ver variable is added at the end to save with different methods of faces eg. known_faces3 - full frame)
+2. pkl_files - pickle files containing youtube ids, aux dictionaries, lists (eg. list of professors whose name is found)
+3. full_vedio - downloaded vedios
+4. experimental_scripts - jupyter notebooks 
+5. tracebacks - usefull cell outputs of notebooks in experimental_scripts
 6. results - dir for evaluation results
 
-
 ## important files
-
+NOTE: seprate versions of noteboks to run on colab which use data from your drive 
 1. download_vedios_from_channels.ipynb - downloads vedios from nptel channels
 2. get_prof_name_face_from_vedio.ipynb - saves names and faces of professors
 3. face_recognition_eval.ipynb - evaluation of all vedios using face recognition library
-4. make_serengil_deepface_known_faces - makes labelled faces directory for deepface library(run before evaluation scripts and after saving faces) 
-5. serengil_deepface_recognition_eval - face recognition evaluation of different models usign deepface library
-6. serengil_deepface_verification_eval - face verification evaluation of different models usign deepface library
-7. app.py - face recognition app on vedios in full_vedio, using streamlit, face_recognition library
-
+4. make_serengil_deepface_known_faces - makes labelled faces directory, from known_faces dir, for deepface library 
+5. serengil_deepface_recognition_eval - face recognition evaluation of different models using deepface library
+6. serengil_deepface_verification_eval - face verification evaluation of different models using deepface library
+7. app.py - streamlit face recognition app on vedios in full_vedio
 
 
 
